@@ -15,10 +15,6 @@ import javax.xml.ws.WebServiceRef;
 import net.webservicex.GeoIP;
 import net.webservicex.GeoIPService;
 
-/**
- *
- * @author Cristina
- */
 @WebServlet(urlPatterns = {"/NewServletGeoIP"})
 public class NewServletGeoIP extends HttpServlet {
 
